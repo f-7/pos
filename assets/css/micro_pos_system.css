@@ -1,0 +1,185 @@
+/*----------------defualt css--------------*/
+.max_widht_hand{width:100px !important}
+.maring_left_tweenty{margin-left:20px !important}
+
+.report_result_box{width: 100%;float: left; font-weight: bold; padding: 5px; font-size: 15px;}
+.result_success_box{ background: green; color: white; }
+.result_request_box{background:#656565; color: white; }
+
+
+.result_specail_message_box{width: 100%;
+    float: left;
+    background: green;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 15px;}
+.report_search_button{width: 170px !important; margin-left: 10px !important; cursor: pointer !important;   line-height: 20px !important;}	
+/*----------------defualt css close--------------*/
+
+.headerLogout{    padding: 14px !important;
+    font-weight: bold !important;
+    background: none !important;
+    border: none !important;
+    color: white !important;}
+.headerLogout:hover{color: red !important;}
+.micro-pos-group{	width:100%; height:auto;padding:10px;float: left;}
+frz{color:red; padding:2px 2px 2px 6px;}
+errormessage{color:red;width:100%; float:left}
+.success{color:green; font-size:14px;}
+.green_color{color: green; }
+.red_color{color: red; }
+.red_bg_color{background: red !important;}
+
+.gray_bg_color{background-color:#ccc}
+.green_bg_color{    background-color: green !important;
+    color: white !important;}
+.failed{color:red; font-size:14px;}
+.table_res_hide{display: none;}
+.responsive_table th{ text-align:center;}
+.responsive_table td{ text-align:center;}
+.option_hide{display:none;}
+.full_sapn{ width:100%;float: left;}
+.same_data_box{ margin-right: 8px !important; cursor:pointer; }
+.margin_top_90{ margin-top: 90px;}
+.margin_top_60{ margin-top: 60px;}
+.margin_top_30{ margin-top: 30px;}
+.borderbox{ border: 1px solid #ccc;margin-left: 0px !important; margin-right:0px !important; margin-bottom:30px; padding-bottom:30px}
+.borderbox_no_border{    
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+}
+.title_gap_fillup{background-color: #ffffff;
+margin: -12px -2px;
+float: left;}
+.no_padding{padding: 0px !important;}
+
+.title_gap{background-color: #ffffff; 
+padding: 0 30px;
+margin: -12px 20px;
+float: left;}
+.headerOfTitile{ width: 100%;
+padding: 3px;
+border-bottom: 1px solid #ccc;
+margin-top: 30px;
+float: left;
+font-weight: bold;}
+.imagebox{width: 100%; max-height: 160px;min-height: 160px;} 
+.imageFilebox{width:100%;}
+.image_web_Filebox_left{width:45%;float:left}
+.image_web_Filebox_right{width:45%;float:right}
+.action_button{    
+width: 60px; margin-bottom:5px;
+height: 30px;
+font-size: 14px;
+padding: 3px;
+border: 1px solid #ccc;
+color: #000;
+float: left;
+text-align: center;
+cursor: pointer;
+font-family: arial;
+font-weight: bold;
+}
+.action_button_inactive{background: #ccc;color: black;}
+.action_button_view{background: #ccc;color: black;}
+.action_button_edit{color: white;background: #4c9ed9;}
+.action_button_delete{    color: white;  background: red;}
+.action_button_big{ 
+background: #ccc;color: black;
+width: 100%; margin-bottom:5px;
+height: 30px;
+font-size: 14px;
+padding: 3px;
+border: 1px solid #ccc;
+color: #000;
+float: left;
+text-align: center;
+cursor: pointer;
+font-family: arial;
+font-weight: bold;}
+ 
+ .image-preview-input {
+    position: relative;
+    overflow: hidden;
+    margin: 0px;    
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;    
+}
+.image-preview-input input[type=file] {
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+	cursor: pointer;
+	opacity: 0;
+	filter: alpha(opacity=0);
+}
+.image-preview-input-title {
+    margin-left:2px;
+}
+
+.webcamera_box_css{width:220px; height:200px; border:1px solid black; margin-left:8px}
+.modal_red_message{    text-align: center;
+    color: red;
+    font-weight: bold;
+    margin-left: 60px;}
+	
+.loader_modal_css_position{top:35%;background: white;width: 20%;text-align: center;}	
+.td_label_filed{ width:30%; padding:4px; text-align:left;}
+.td_label_blank{ width:10%; padding:4px; text-align:left;}
+.societyTable table th{ background:#ccc; color:black;} 
+.societyTable table tbody tr:hover{background:#ecf0f5;color:black; cursor:move}
+.borderbox_distibu{ min-height: 220px;
+border: 1px solid #ccc;
+margin: 10px !important;  
+ padding:5px}
+.topminiBox{width: 100%;min-height: 190px;} 
+.bottom_name_box{width:100%; min-height: 30px; text-align:center;background: #ccc;line-height: 6vh;} 
+.cross_button{color: red;
+border: 1px solid black;
+padding: 2px 5px;
+margin-right: 15px;
+cursor: pointer;}
+
+/*-------------------------- product informaiton --------------*/
+.all_band_list td{  width: 48%; float: left;}
+.product_size_td{width:30%}
+.product_name_td{width:40%;padding-left: 10px;}
+.product_name_td_seond{width:100px;padding-left: 10px;}
+.extra_cls{min-width:90px !important}
+
+
+/*--------------------------stock informaiton---------------*/
+.small_inputbox_large{min-width: 420px}
+.medium_inputbox_large{min-width: 220px}
+.small_inputbox{width: 110px;}
+.stock_info_table{margin-left:15px;}
+.stock_info_table th{ text-align:center}
+.stock_info_table td{padding:0px 10px 10px 10px}
+a.chosen-single{height: 35px !important; line-height: 35px !important;}
+.chosen-container-single .chosen-single{border-radius:0px !important;}
+
+.listOfTable{margin-left:15px; margin-top:50px;border-top: 1px solid #ccc;padding-top: 20px;}
+.listOfTable th{ text-align:center}
+.listOfTable td{padding:0px 10px 10px 10px}
+#large_view_modal_body{height:80vh;width: 100%;float: left;overflow: auto;}
+
+
+/*------------all modify css------------------------------------*/
+.user-panel>.image>img {
+    width: 100%;
+    max-width: 50px !important;
+    height: 50px !important;
+}
+
+nav#responsive_nave ul li a:hover{background:#ccc; color:white; font-weight:bold}
+
+ .account_list_li{width: 30% !important; margin-right: 20px !important; margin-bottom: 10px !important; float: left !important; text-align:center}
+ .account_list_li a{width:100% !important;    float: left !important;}
+ .account_list_li:hover{background:#ccc !important; color:#FFF !important; cursor:pointer}
